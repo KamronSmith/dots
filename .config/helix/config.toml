@@ -1,0 +1,16 @@
+theme = "tokyonight"
+
+[editor]
+line-number = "relative"
+scrolloff = 8
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
+
+[keys.normal]
+"." = "command_mode"
+
+
+
